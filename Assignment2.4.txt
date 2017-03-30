@@ -1,0 +1,6 @@
+1.Importance of Name node in Hadoop cluster :
+
+Namenode acts a master in the hdfs.
+It stores the directory tree of the hdfs.
+It acts as a single point of failure in hdfs.
+So,if the namenode fails,entire system collapses.
